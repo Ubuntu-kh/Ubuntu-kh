@@ -1,3 +1,4 @@
+ ![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a content manager at a SaaS start-up Hiration
@@ -6,7 +7,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to develop my MERN-stack skills
 - 💬 Read my <a href="https://blog.arnabghosh.me"> blogs <a> on Programming and life
 - ⚡ Fun fact: Let's talk about gaming.
- 
+
  <br />
 <div align="center"> 
  <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=ghosharnab00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
   
 <br />
  
-![Snake animation](https://github.com/Ubuntu-kh/Ubuntu-kh/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 ghosharnab00/ghosharnab00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
