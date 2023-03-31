@@ -1,13 +1,4 @@
  ![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a content manager at a SaaS start-up Hiration
-- 🌱 I’m currently learning Full-stack Development, Reactjs, Nextjs, Nodejs, HTML, CSS....
-- 👯 I’m looking to collaborate on different projects....
-- 🤔 I’m looking for help to develop my MERN-stack skills
-- 💬 Read my <a href="https://blog.arnabghosh.me"> blogs <a> on Programming and life
-- ⚡ Fun fact: Let's talk about gaming.
-
  <br />
 <div align="center"> 
  <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=ghosharnab00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
