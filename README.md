@@ -1,24 +1,14 @@
  ![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
  <br />
+ <p align="center">	<!-- (optional) center align -->
+    <img src="assets/banner.svg" width="600px">
+</p>
 <div align="center"> 
  <img height="150em" alt = "Arnab Ghosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=ghosharnab00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosharnab00&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
 <br />
- 
-### ***Connect with me :***
-
-<a href="https://www.linkedin.com/in/iamarnabghosh">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ghosharnab00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/arnabghosh_co">
-  <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="twitter" style="vertical-align:top; margin:4px; width:50px">
-</a>&nbsp;&nbsp;&nbsp; 
-
- <br />
- 
 <div align="left"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
   <div style="display: inline_block"><br>
