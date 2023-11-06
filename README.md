@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Vann-Rithy/Output/main/github-contribution-grid-snake.svg?token=GHSAT0AAAAAACIUCQ3P2OIPO7QKWOOHT5VIZKIL4XQ)">
   <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake-dark.svg">
 </picture>
  <br />
