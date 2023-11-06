@@ -1,4 +1,12 @@
  ![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
+ <p align="center">
+    <a href="https://github.com/chetra-seng"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt-get+update;%24+sudo+apt-get+upgrade"></a>
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake.svg">
+  <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake-dark.svg">
+</picture>
  <br />
  <p align="center">	<!-- (optional) center align -->
     <img src="assets/banner.svg" width="600px">
@@ -8,14 +16,6 @@
 </div>
  
 <br />
-<p align="center">
-    <a href="https://github.com/chetra-seng"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt-get+update;%24+sudo+apt-get+upgrade"></a>
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake.svg">
-  <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/chetra-seng/chetra-seng/outputs/github-contribution-grid-snake-dark.svg">
-</picture>
 <div align="left"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
   <div style="display: inline_block"><br>
