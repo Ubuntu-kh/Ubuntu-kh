@@ -1,5 +1,4 @@
- ![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
- <p align="center">
+<p align="center">
     <a href="https://github.com/chetra-seng"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=750&color=39FF14&center=true&vCenter=true&width=500&lines=Latest+Contributions;%24+sudo+apt-get+update;%24+sudo+apt-get+upgrade"></a>
 </p>
 <picture>
